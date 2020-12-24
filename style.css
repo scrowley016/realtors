@@ -1,4 +1,11 @@
+*{
+    
+    
+}
+
 body {
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
     /* your styles here */
   }
   
@@ -29,6 +36,8 @@ body {
   .style6 {
     background-color: #9B9A9A;
   }
+
+  
   
   /* SETTING THE COLOR OF THE BOX TEXT */
   .tiles .box-wrapper > a {
